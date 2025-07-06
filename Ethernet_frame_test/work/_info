@@ -1,0 +1,54 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/blaine/Documents/Questasim Ethernet tests
+Efifo
+Z0 w1751671343
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 1
+Z4 dC:/Users/blaine/Documents/Ethernet_frame_test
+Z5 8C:/Users/blaine/Documents/Ethernet_frame_test/fifo.vhd
+Z6 FC:/Users/blaine/Documents/Ethernet_frame_test/fifo.vhd
+l0
+L5 1
+VbzBMP?^49UlReCIiZFlTJ0
+!s100 MG7lM6M`LX^Fl@_L[Y]9[3
+Z7 OL;C;2024.1;79
+32
+Z8 !s110 1751671348
+!i10b 1
+Z9 !s108 1751671348.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/blaine/Documents/Ethernet_frame_test/fifo.vhd|
+!s107 C:/Users/blaine/Documents/Ethernet_frame_test/fifo.vhd|
+!i113 0
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Artl
+R1
+R2
+R3
+DEx4 work 4 fifo 0 22 bzBMP?^49UlReCIiZFlTJ0
+!i122 1
+l39
+L27 62
+V`hMj>Pa@4RChZMZGP2>dY0
+!s100 j0P76[C=b2o^n:B1bIdK70
+R7
+32
+R8
+!i10b 1
+R9
+R10
+Z13 !s107 C:/Users/blaine/Documents/Ethernet_frame_test/fifo.vhd|
+!i113 0
+R11
+R12
